@@ -4,7 +4,7 @@
  
  
  
- htpps://rocketseat-projeto-mentoria.vercel.app/
+ https://rocketseat-projeto-mentoria.vercel.app/
  
  
  
